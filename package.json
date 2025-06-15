@@ -2,7 +2,7 @@
   "name": "react-tailwind-css-starter-pack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aditi-789.github.io/Counter",
+  "homepage": "https://aditi-789.github.io/Counter",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
